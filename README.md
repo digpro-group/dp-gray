@@ -1,4 +1,4 @@
-Digpro Bright
+Digpro Gray
 ==========
 
 ![screenshot](https://raw.github.com/digpro-group/dp-gray/master/preview.png)
