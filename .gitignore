@@ -1,3 +1,2 @@
-build
-*.pyc
-configure.py
+dp-gray/dp-gray.xml
+dp-gray/shp/
